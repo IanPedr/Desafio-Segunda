@@ -1,0 +1,16 @@
+.image {
+    display: flex;
+    justify-content: center;
+    padding-top: 164px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fafafa;
+  }
+  label {
+    padding-right: 26rem;
+  }
+  

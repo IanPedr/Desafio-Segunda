@@ -1,0 +1,21 @@
+#email {
+    width: 466px;
+    height: 58px;
+    margin-bottom: 7px;
+    color: #fafafa;
+    background: #353535;
+    border: 1px solid #fafafa;
+    font-size: 15px;
+    border-radius: 3px;
+}
+
+#password {
+    width: 466px;
+    height: 58px;
+    margin-bottom: 42px;
+    color: #fafafa;
+    background: #353535;
+    border: 1px solid #fafafa;
+    font-size: 15px;
+    border-radius: 3px;
+}

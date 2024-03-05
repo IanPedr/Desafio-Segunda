@@ -1,0 +1,14 @@
+.enviar {
+  background: #2fb23c;
+  color: #fafafa;
+  border: none;
+  width: 191px;
+  height: 67px;
+  border-radius: 12px;
+  font-size: 30px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.enviar:hover {
+  background: #0b500b;
+}
